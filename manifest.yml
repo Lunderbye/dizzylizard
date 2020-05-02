@@ -5,3 +5,4 @@ applications:
  - name: dizzylizard_yogibliz
    buildpack: nodejs_buildpack
    memory: 32M
+   random-route: true
