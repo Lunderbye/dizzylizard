@@ -2,6 +2,6 @@
 # We have created a temporary app in the gallery
 # We have created a delivery pipeline
 applications:
- - name: dizzylizard
+ - name: dizzylizard_yogibliz
    buildpack: nodejs_buildpack
    memory: 32M
