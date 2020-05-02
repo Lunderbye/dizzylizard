@@ -2,7 +2,7 @@
 # We have created a temporary app in the gallery
 # We have created a delivery pipeline
 applications:
- - name: dizzylizard_yogibliz
+ - name: dizzylizard
    buildpack: nodejs_buildpack
    memory: 32M
    random-route: true
